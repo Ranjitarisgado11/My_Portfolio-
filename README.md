@@ -4,7 +4,7 @@ Laboratory 1
 
 Laboratory 2
 
-      In this laboratory activity, the Titanic dataset is cleaned and analyzed to uncover patterns. Steps include handling missing values by imputing ages with the median and removing unnecessary columns such as `Cabin`. Duplicate records are eliminated, and categorical data types are standardized for efficiency. Key discoveries reveal that women and passengers in higher classes had greater survival probabilities, as shown through bar plots. Additional analyses on survival counts and age distribution highlight that most passengers aged 20–40 did not survive, emphasizing demographic influences on survival outcomes.
+   In this laboratory activity, the Titanic dataset is cleaned and analyzed to uncover patterns. Steps include handling missing values by imputing ages with the median and removing unnecessary columns such as `Cabin`. Duplicate records are eliminated, and categorical data types are standardized for efficiency. Key discoveries reveal that women and passengers in higher classes had greater survival probabilities, as shown through bar plots. Additional analyses on survival counts and age distribution highlight that most passengers aged 20–40 did not survive, emphasizing demographic influences on survival outcomes.
 
 Laboratory 3
 
